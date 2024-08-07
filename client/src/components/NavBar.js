@@ -21,7 +21,7 @@ const Navbar = () => {
               <Link to="/" className='nav-link fs-5 fw-bold'>Events</Link>
             </li>
             <li className="nav-item mx-4">
-              <Link to="/" className='nav-link fs-5 fw-bold'>Categories</Link>
+              <Link to="/allcategory" className='nav-link fs-5 fw-bold'>Categories</Link>
             </li>
             <li className="nav-item mx-4">
               <Link to="/" className='nav-link fs-5 fw-bold' >My Tickets</Link>
